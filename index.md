@@ -4,8 +4,9 @@
 
 [Program Evaluation for International Development](econ379.html)  
 
-[Price and Allocation Theory](https://glow.williams.edu/courses/3010522) 
+[Price and Allocation Theory](https://glow.williams.edu/courses/3010522) (aka intermediate micro)  
 
+<br>
 
 ## Past Teaching 
 
