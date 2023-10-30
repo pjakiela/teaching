@@ -12,10 +12,10 @@
 
 ## At the Barcelona School of Economics
 
-[RCTs in Development Economics](http://economics.ozier.com/bgse-2019/)  
+[RCTs in Development Economics](https://bse.eu/study/summer-school/development-economics)  
 Summer School, Barcelona School of Economics  
 Co-taught with Owen Ozier  
-Last taught July 2022, [next taught in 2023](https://bse.eu/study/summer-school/development-economics)  
+Last taught July 2023
 
 ## Past Teaching 
 
