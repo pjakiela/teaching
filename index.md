@@ -19,7 +19,7 @@ Last taught July 2023
 
 ## Past Teaching 
 
-[Mostly Painless Econometrics](http://economics.ozier.com/econ626/) (PhD-level)  
+[Empirical Microeconomics](http://economics.ozier.com/econ626/) (PhD-level)  
 Economics Department, University of Maryland  
 Co-taught with Owen Ozier  
 Last taught Fall 2019  
