@@ -2,13 +2,15 @@
 
 ## At Williams
 
+[Data Science for Economic Analysis](https://pjakiela.github.io/ECON370/)  
+
 [Program Evaluation for International Development](https://pjakiela.github.io/ECON523/)  
 
 [Women, Work, and the World Economy from 5,000 BC to the Present](https://pjakiela.github.io/ECON460/)  
 
 [Global Poverty and Economic Development](https://pjakiela.github.io/ECON204/)  
 
-[Intermediate Microeconomics](https://pjakiela.github.io/ECON251/)  
+[Intermediate Microeconomics](https://pjakiela.github.io/ECON251/) (last taught Fall 2022)    
 
 ## At the Barcelona School of Economics
 
